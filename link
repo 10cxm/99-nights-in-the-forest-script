@@ -1,0 +1,3 @@
+-- https://rscripts.net/script/rbcheats-hub-kill-aura-esp-auto-farm-and-more-D6XO
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/10cxm/loader/refs/heads/main/src"))()
